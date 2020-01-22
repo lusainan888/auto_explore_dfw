@@ -1,0 +1,15 @@
+{
+    "pz": {},
+    "testing": {
+        "league_1": 21,
+        "league_2": 10,
+        "league_7": 3,
+        "league_3": 16,
+        "league_4": 2,
+        "league_6": 2
+    },
+    "abtest": {
+        "league_2": 3,
+        "league_1": 7
+    }
+}

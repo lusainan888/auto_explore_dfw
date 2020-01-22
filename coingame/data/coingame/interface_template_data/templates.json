@@ -1,0 +1,207 @@
+{
+    "gameTitle": {
+        "zh-Hant": "利物浦 VS 曼聯",
+        "ru": "Ливерпуль VS Ман Юнайтед",
+        "vi": "Liverpool VS Man Utd",
+        "ko": "리버풀 VS 맨체스터 유나이티드",
+        "ja": "リバプール VS マンU",
+        "en": "Liverpool VS Man Utd",
+        "zh": "利物浦 VS 曼联"
+    },
+    "outerEventId": 788392,
+    "categoryId": 25,
+    "source": "bet365",
+    "round": "17",
+    "plays": [
+        {
+            "round": "全场",
+            "plays": [
+                {
+                    "playTemplateId": 10,
+                    "round": 0,
+                    "handicap": null,
+                    "market": "1_1",
+                    "commission": 0.055,
+                    "resultType": "SCORE_AND_OPTION",
+                    "awardType": "OPTION",
+                    "name": {
+                        "zh-Hant": "勝平負",
+                        "ru": "1X2",
+                        "vi": "Giành chiến thắng phẳng",
+                        "ko": "승무패",
+                        "ja": "勝ち/引き分け/負けを予想する",
+                        "en": "1X2",
+                        "zh": "胜平负"
+                    },
+                    "description": {
+                        "zh-Hant": "競猜兩隊在90分鐘內（含補時）的比賽結果",
+                        "ru": "1x2 - предсказать результат матча (90 минут плюс компенсированное время )",
+                        "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                        "ko": "양팀 90분(추가시간 포함) 내의 경기 결과 예측",
+                        "ja": "両チームの試合結果（ロスタイムを含む）",
+                        "en": "1x2 - Predict the outcome of the match (90 minutes plus injury time)",
+                        "zh": "竞猜两队在90分钟内（含补时）的比赛结果"
+                    },
+                    "optionInfoList": [
+                        {
+                            "optionName": {
+                                "zh-Hant": "利物浦",
+                                "ru": "Ливерпуль",
+                                "vi": "Liverpool",
+                                "ko": "리버풀",
+                                "ja": "リバプール",
+                                "en": "Liverpool",
+                                "zh": "利物浦"
+                            },
+                            "tag": "homeOd",
+                            "index": 1,
+                            "odds": "1.571"
+                        },
+                        {
+                            "optionName": {
+                                "zh-Hant": "平局",
+                                "ru": "Равен",
+                                "vi": "Vẽ tranh",
+                                "ko": "무승부",
+                                "ja": "相こ",
+                                "en": "Draw",
+                                "zh": "平局"
+                            },
+                            "tag": "drawOd",
+                            "index": 2,
+                            "odds": "4.200"
+                        },
+                        {
+                            "optionName": {
+                                "zh-Hant": "曼聯",
+                                "ru": "Ман Юнайтед",
+                                "vi": "Man Utd",
+                                "ko": "맨체스터 유나이티드",
+                                "ja": "マンU",
+                                "en": "Man Utd",
+                                "zh": "曼联"
+                            },
+                            "tag": "awayOd",
+                            "index": 3,
+                            "odds": "6.500"
+                        }
+                    ]
+                },
+                {
+                    "playTemplateId": 20,
+                    "round": 0,
+                    "handicap": "-1.0",
+                    "market": "1_2",
+                    "commission": 0.1,
+                    "resultType": "SCORE",
+                    "awardType": "HANDICAP",
+                    "name": {
+                        "zh-Hant": "讓球",
+                        "ru": "Азиатский Гандикап(HANDICAP)",
+                        "vi": "nhường bóng",
+                        "ko": "핸디캡",
+                        "ja": "ハンディキャップ",
+                        "en": "Handicap",
+                        "zh": "让球"
+                    },
+                    "description": {
+                        "zh-Hant": "競猜兩隊在90分鐘內（含補時）讓球後的結果",
+                        "ru": "Азиатский Гандикап - предсказать результат матча (90 минут плюс компенсированное время )",
+                        "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                        "ko": "양팀 90분(추가시간 포함) 내의 핸디캡 후의 결과 예측",
+                        "ja": "ハンディキャップを含めた両チームの試合結果（ロスタイムを含む）",
+                        "en": "Asian Handicap - Predict the outcome of the match (90 minutes plus injury time)",
+                        "zh": "竞猜两队在90分钟内（含补时）让球后的结果"
+                    },
+                    "optionInfoList": [
+                        {
+                            "optionName": {
+                                "zh-Hant": "利物浦",
+                                "ru": "Ливерпуль",
+                                "vi": "Liverpool",
+                                "ko": "리버풀",
+                                "ja": "リバプール",
+                                "en": "Liverpool",
+                                "zh": "利物浦"
+                            },
+                            "tag": "homeOd",
+                            "index": 1,
+                            "odds": "1.960"
+                        },
+                        {
+                            "optionName": {
+                                "zh-Hant": "曼聯",
+                                "ru": "Ман Юнайтед",
+                                "vi": "Man Utd",
+                                "ko": "맨체스터 유나이티드",
+                                "ja": "マンU",
+                                "en": "Man Utd",
+                                "zh": "曼联"
+                            },
+                            "tag": "awayOd",
+                            "index": 2,
+                            "odds": "1.970"
+                        }
+                    ]
+                },
+                {
+                    "playTemplateId": 30,
+                    "round": 0,
+                    "handicap": "2.5,3.0",
+                    "market": "1_3",
+                    "commission": 0.085,
+                    "resultType": "SCORE",
+                    "awardType": "OI",
+                    "name": {
+                        "zh-Hant": "大小球",
+                        "ru": "O/U",
+                        "vi": "Bóng lớn nhỏ",
+                        "ko": "오버/언더",
+                        "ja": "オーバー/アンダーベット",
+                        "en": "O/U",
+                        "zh": "大小球"
+                    },
+                    "description": {
+                        "zh-Hant": "競猜兩隊在90分鐘內（含補時）總進球數的大小",
+                        "ru": "O/U - предсказать результат матча (90 минут плюс компенсированное время )",
+                        "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                        "ko": "양팀 90분(추가시간 포함) 내의 총 득점수 오버/언더 예측",
+                        "ja": "両チームそれぞれのゴール数（ロスタイムを含む）",
+                        "en": "O/U - Predict the game within 90 minutes (including injury time)",
+                        "zh": "竞猜两队在90分钟内（含补时）总进球数的大小"
+                    },
+                    "optionInfoList": [
+                        {
+                            "optionName": {
+                                "zh-Hant": "高於",
+                                "ru": "Над",
+                                "vi": "kết thúc",
+                                "ko": "보다 많다",
+                                "ja": "より高い",
+                                "en": "Over",
+                                "zh": "高于"
+                            },
+                            "tag": "overOd",
+                            "index": 1,
+                            "odds": "1.910"
+                        },
+                        {
+                            "optionName": {
+                                "zh-Hant": "低於",
+                                "ru": "Под",
+                                "vi": "Dưới",
+                                "ko": "보다 적다",
+                                "ja": "より低い",
+                                "en": "Under",
+                                "zh": "低于"
+                            },
+                            "tag": "underOd",
+                            "index": 2,
+                            "odds": "1.990"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "success": 1,
+    "pager": {
+        "page": 1,
+        "per_page": 200,
+        "total": "2"
+    },
+    "results": [
+        {
+            "id": 1000,
+            "sport_id": "26",
+            "time": "1527669000",
+            "time_status": "0",
+            "league": {
+                "id": "2",
+                "name": "西甲",
+                "cc": "ph"
+            },
+            "home": {
+                "id": "66902",
+                "name": "AUTO_A_1000",
+                "image_id": "96571",
+                "cc": "ph"
+            },
+            "away": {
+                "id": "100",
+                "name": "AUTO_B_1000",
+                "image_id": "179068",
+                "cc": "ph"
+            },
+            "ss": null
+        },
+        {
+            "id": 1001,
+            "sport_id": "26",
+            "time": "1527669000",
+            "time_status": "0",
+            "league": {
+                "id": "2",
+                "name": "西甲",
+                "cc": "ph"
+            },
+            "home": {
+                "id": "66902",
+                "name": "AUTO_A_1001",
+                "image_id": "96571",
+                "cc": "ph"
+            },
+            "away": {
+                "id": "100",
+                "name": "AUTO_B_1001",
+                "image_id": "179068",
+                "cc": "ph"
+            },
+            "ss": null
+        }
+    ]
+}

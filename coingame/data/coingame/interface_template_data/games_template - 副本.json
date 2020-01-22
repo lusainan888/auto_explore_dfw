@@ -1,0 +1,158 @@
+{
+    "categoryId": 26,
+    "openTime": 1545643681000,
+    "closeTime": 1551086877000,
+    "gameTitle": {
+        "zh-Hant": "利云特 VS 赫羅納",
+        "ru": "Леванте VS Гирона",
+        "vi": "Levante VS Girona",
+        "ko": "레반테 VS 지로나",
+        "ja": "レバンテ VS ジローナ",
+        "en": "Levante VS Girona",
+        "zh": "勒万特队 VS 赫罗纳"
+    },
+    "gameDescribe": {
+        "zh": "auto_create",
+        "en": "auto_create",
+        "ja": "auto_create",
+        "ko": "auto_create",
+        "ru": "auto_create",
+        "zh-Hant": "auto_create",
+        "vi": "auto_create"
+    },
+    "roundInfo": {
+        "zh": "",
+        "en": "",
+        "ja": "",
+        "ko": "",
+        "ru": "",
+        "zh-Hant": "",
+        "vi": ""
+    },
+    "source": "bet365",
+    "outerEventId": 1259217,
+    "playInfoDTOS": [
+        {
+            "playName": {
+                "zh-Hant": "勝平負",
+                "ru": "1X2",
+                "vi": "Giành chiến thắng phẳng",
+                "ko": "승무패",
+                "ja": "勝ち/引き分け/負けを予想する",
+                "en": "1X2",
+                "zh": "胜平负"
+            },
+            "playDescription": {
+                "zh-Hant": "競猜兩隊在90分鐘內（含補時）的比賽結果",
+                "ru": "1x2 - предсказать результат матча (90 минут плюс компенсированное время )",
+                "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                "ko": "양팀 90분(추가시간 포함) 내의 경기 결과 예측",
+                "ja": "両チームの試合結果（ロスタイムを含む）",
+                "en": "1x2 - Predict the outcome of the match (90 minutes plus injury time)",
+                "zh": "竞猜两队在90分钟内（含补时）的比赛结果"
+            },
+            "playTemplateId": 10,
+            "market": "1_1",
+            "round": 0,
+            "handicap": null,
+            "awardType": "OPTION",
+            "resultType": "SCORE_AND_OPTION",
+            "optionInfoList": [
+                {
+                    "index": 1,
+                    "tag": "homeOd",
+                    "optionName": {
+                        "zh-Hant": "利云特",
+                        "ru": "Леванте",
+                        "vi": "Levante",
+                        "ko": "레반테",
+                        "ja": "レバンテ",
+                        "en": "Levante",
+                        "zh": "勒万特队"
+                    },
+                    "primary": false,
+                    "originalOdds": "2.375",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "EOS": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "BKBT": {
+                            "betCap": "80000",
+                            "shrink": 10000
+                        }
+
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 10000
+                        }
+                    }
+                }
+            ],
+            "centralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                },
+                "BTC": {
+                    "betCap": "400"
+                },
+                "BCH": {
+                    "betCap": "400"
+                },
+                "LTC": {
+                    "betCap": "400"
+                },
+                "USDT": {
+                    "betCap": "400"
+                },
+                "EOS": {
+                    "betCap": "400"
+                },
+                "BKBT": {
+                    "betCap": "80000"
+                }
+            },
+            "noneCentralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                }
+            }
+        }
+    ]
+}

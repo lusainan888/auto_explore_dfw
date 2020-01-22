@@ -1,0 +1,31 @@
+{
+    "1X2": 
+        [{"Id":6440892633871455,"Name":"1","Status":1,"StartPrice":"1.22","Line":null,"BaseLine":null,"Price":"1.28","Settlement":0,"LastUpdate":"2019-04-03T18:45:22.1501717Z"},{"Id":6440892623871455,"Name":"2","Status":1,"StartPrice":"12.0","Line":null,"BaseLine":null,"Price":"13.0","Settlement":0,"LastUpdate":"2019-04-03T18:45:22.1501717Z"},{"Id":6440893203871455,"Name":"X","Status":1,"StartPrice":"6.0","Line":null,"BaseLine":null,"Price":"5.75","Settlement":0,"LastUpdate":"2019-04-03T18:45:22.1501717Z"}]
+    ,
+    "Under/Over": 
+		[{"Id":5825088293871455,"Name":"Over","Status":1,"StartPrice":"1.45","Line":"2.25","BaseLine":"2.25","Price":"1.6","Settlement":0,"LastUpdate":"2019-04-03T18:45:22.1501717Z"}]
+    ,
+    "Asian Handicap": 
+		[{"Id":1948229423871455,"Name":"2","Status":1,"StartPrice":"1.19","Line":"3.0 (0-0)","BaseLine":"-3.0 (0-0)","Price":"1.15","Settlement":0,"LastUpdate":"2019-04-03T18:38:42.1400411Z"}]
+    ,
+    "Correct Score": 
+		[{"Id":5497331063871455,"Name":"4-2","Status":1,"StartPrice":"51.0","Line":null,"BaseLine":null,"Price":"51.0","Settlement":0,"LastUpdate":"2019-04-03T16:02:07.0826019Z"}]
+    ,
+    "Double Chance": 
+		[{"Id":8184972943871455,"Name":"X2","Status":1,"StartPrice":"4.33","Line":null,"BaseLine":null,"Price":"3.75","Settlement":0,"LastUpdate":"2019-04-03T16:02:07.0826019Z"},{"Id":12247784273871456,"Name":"1X","Status":1,"StartPrice":"1.06","Line":null,"BaseLine":null,"Price":"1.05","Settlement":0,"LastUpdate":"2019-04-03T16:02:07.0826019Z"},{"Id":8184953993871455,"Name":"12","Status":1,"StartPrice":"1.14","Line":null,"BaseLine":null,"Price":"1.16","Settlement":0,"LastUpdate":"2019-04-03T16:02:07.0826019Z"}]
+    ,
+    "Both Teams To Score": 
+		[{"Id":8571357143871455,"Name":"No","Status":1,"StartPrice":"1.61","Line":null,"BaseLine":null,"Price":"1.53","Settlement":0,"LastUpdate":"2019-04-03T18:45:22.1501717Z"},{"Id":3244603383871455,"Name":"Yes","Status":1,"StartPrice":"2.2","Line":null,"BaseLine":null,"Price":"2.37","Settlement":0,"LastUpdate":"2019-04-03T18:45:22.1501717Z"}]
+    ,
+    "Under/Over Including Overtime": 
+		[{"Id":5294029523985097,"Name":"Over","Status":1,"StartPrice":"1.74","Line":"210.5","BaseLine":"210.5","Price":"1.68","Settlement":0,"LastUpdate":"2019-04-01T23:41:54.4600143Z"}]
+    ,
+    "12 Including Overtime": 
+		[{"Id":19549130433985096,"Name":"2","Status":1,"StartPrice":"1.58","Line":null,"BaseLine":null,"Price":"2.0","Settlement":0,"LastUpdate":"2019-04-01T23:41:48.0901819Z"},{"Id":19549130403985096,"Name":"1","Status":1,"StartPrice":"2.5","Line":null,"BaseLine":null,"Price":"1.83","Settlement":0,"LastUpdate":"2019-04-01T23:41:48.0901819Z"}]
+    ,
+    "Asian Handicap Including Overtime": 
+		[{"Id":19799998373985096,"Name":"2","Status":1,"StartPrice":"1.28","Line":"6.5 (0-0)","BaseLine":"-6.5 (0-0)","Price":"1.37","Settlement":0,"LastUpdate":"2019-04-01T23:18:02.6073479Z"}],
+    "12": 
+		[{"Id":6518606694533234,"Name":"2","Status":1,"StartPrice":"1.8","Line":null,"BaseLine":null,"Price":"1.72","Settlement":0,"LastUpdate":"2019-05-09T14:11:15.7771051Z"},{"Id":10551451964533234,"Name":"1","Status":1,"StartPrice":"2.0","Line":null,"BaseLine":null,"Price":"2.1","Settlement":0,"LastUpdate":"2019-05-09T14:11:15.7771051Z"}]
+    
+}

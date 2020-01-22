@@ -1,0 +1,288 @@
+{
+    "categoryId": 337,
+    "openTime": 1557389149000,
+    "closeTime": 1557550268000,
+    "gameTitle": {
+        "zh-Hant": "{{home}} VS {{away}}",
+        "ko": "{{home}} VS {{away}}",
+        "ja": "{{home}} VS {{away}}",
+        "en": "K. Nishikori VS S. Wawrinka",
+        "zh": "{{home}} VS {{away}}"
+    },
+    "gameDescribe": {
+        "zh": "",
+        "en": "",
+        "ja": "",
+        "ko": "",
+        "ru": "",
+        "zh-Hant": "",
+        "vi": ""
+    },
+    "roundInfo": {
+        "zh": "",
+        "en": "",
+        "ja": "",
+        "ko": "",
+        "ru": "",
+        "zh-Hant": "",
+        "vi": ""
+    },
+    "source": "lsports",
+    "outerEventId": 4533234,
+    "homeId": 153465,
+    "awayId": 22675,
+    "startTime": 1557406800000,
+    "playInfoDTOS": [
+        {
+            "playName": {
+                "zh-Hant": "勝負",
+                "ru": "Win/Lose",
+                "vi": "Win/Lose",
+                "ko": "승패",
+                "ja": "勝ち/負け",
+                "en": "Win/Lose",
+                "zh": "胜负"
+            },
+            "playDescription": {
+                "zh-Hant": "競猜兩隊全場比賽的結果",
+                "ru": "the final result of the match",
+                "vi": "the final result of the match",
+                "ko": "경기의 최종 결과를 예측한다",
+                "ja": "両チームが全試合における最終結果に関するベッティング",
+                "en": "the final result of the match",
+                "zh": "竞猜全场比赛的最终结果"
+            },
+            "playTemplateId": 190,
+            "market": "13_1",
+            "round": 0,
+            "handicap": null,
+            "awardType": "OPTION",
+            "resultType": "SCORE_AND_OPTION",
+            "optionInfoList": [
+                {
+                    "index": 1,
+                    "tag": "homeOd",
+                    "optionName": {
+                        "zh-Hant": "{{home}}",
+                        "ru": "{{home}}",
+                        "vi": "{{home}}",
+                        "ko": "{{home}}",
+                        "ja": "{{home}}",
+                        "en": "K. Nishikori",
+                        "zh": "{{home}}"
+                    },
+                    "primary": false,
+                    "originalOdds": "2.1",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "BTC": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "BCH": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "LTC": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "USDT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "EOS": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "BKBT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "LBCN": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "IDA": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "TRON": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "QTUM": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "NULS": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "VET": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "CT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "DCCB": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "ETT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        }
+                    }
+                },
+                {
+                    "index": 2,
+                    "tag": "awayOd",
+                    "optionName": {
+                        "zh-Hant": "{{away}}",
+                        "ru": "{{away}}",
+                        "vi": "{{away}}",
+                        "ko": "{{away}}",
+                        "ja": "{{away}}",
+                        "en": "S. Wawrinka",
+                        "zh": "{{away}}"
+                    },
+                    "primary": false,
+                    "originalOdds": "1.72",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "BTC": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "BCH": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "LTC": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "USDT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "EOS": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "BKBT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "LBCN": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "IDA": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "TRON": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "QTUM": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "NULS": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "VET": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "CT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "DCCB": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        },
+                        "ETT": {
+                            "betCap": "10000",
+                            "shrink": 0.055
+                        }
+                    }
+                }
+            ],
+            "centralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "10000"
+                },
+                "ETH": {
+                    "betCap": "10000"
+                },
+                "BTC": {
+                    "betCap": "10000"
+                },
+                "BCH": {
+                    "betCap": "10000"
+                },
+                "LTC": {
+                    "betCap": "10000"
+                },
+                "USDT": {
+                    "betCap": "10000"
+                },
+                "EOS": {
+                    "betCap": "10000"
+                },
+                "BKBT": {
+                    "betCap": "10000"
+                },
+                "LBCN": {
+                    "betCap": "10000"
+                },
+                "IDA": {
+                    "betCap": "10000"
+                },
+                "TRON": {
+                    "betCap": "10000"
+                },
+                "QTUM": {
+                    "betCap": "10000"
+                },
+                "NULS": {
+                    "betCap": "10000"
+                },
+                "VET": {
+                    "betCap": "10000"
+                },
+                "CT": {
+                    "betCap": "10000"
+                },
+                "DCCB": {
+                    "betCap": "10000"
+                },
+                "ETT": {
+                    "betCap": "10000"
+                }
+            }
+        }
+    ]
+}

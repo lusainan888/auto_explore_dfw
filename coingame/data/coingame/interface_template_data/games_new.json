@@ -1,0 +1,557 @@
+请求url:http://api.intranet.etcgame.com/testing/games/
+requestType:POST
+请求参数：
+{
+    "categoryId": 26,
+    "openTime": 1545643681000,
+    "closeTime": 1551086877000,
+    "gameTitle": {
+        "zh-Hant": "利云特 VS 赫羅納",
+        "ru": "Леванте VS Гирона",
+        "vi": "Levante VS Girona",
+        "ko": "레반테 VS 지로나",
+        "ja": "レバンテ VS ジローナ",
+        "en": "Levante VS Girona",
+        "zh": "勒万特队 VS 赫罗纳"
+    },
+    "gameDescribe": {
+        "zh": "1",
+        "en": "1",
+        "ja": "1",
+        "ko": "1",
+        "ru": "1",
+        "zh-Hant": "1",
+        "vi": "1"
+    },
+    "roundInfo": {
+        "zh": "",
+        "en": "",
+        "ja": "",
+        "ko": "",
+        "ru": "",
+        "zh-Hant": "",
+        "vi": ""
+    },
+    "source": "bet365",
+    "outerEventId": 1259217,
+    "playInfoDTOS": [
+        {
+            "playName": {
+                "zh-Hant": "勝平負",
+                "ru": "1X2",
+                "vi": "Giành chiến thắng phẳng",
+                "ko": "승무패",
+                "ja": "勝ち/引き分け/負けを予想する",
+                "en": "1X2",
+                "zh": "胜平负"
+            },
+            "playDescription": {
+                "zh-Hant": "競猜兩隊在90分鐘內（含補時）的比賽結果",
+                "ru": "1x2 - предсказать результат матча (90 минут плюс компенсированное время )",
+                "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                "ko": "양팀 90분(추가시간 포함) 내의 경기 결과 예측",
+                "ja": "両チームの試合結果（ロスタイムを含む）",
+                "en": "1x2 - Predict the outcome of the match (90 minutes plus injury time)",
+                "zh": "竞猜两队在90分钟内（含补时）的比赛结果"
+            },
+            "playTemplateId": 10,
+            "market": "1_1",
+            "round": 0,
+            "handicap": null,
+            "awardType": "OPTION",
+            "resultType": "SCORE_AND_OPTION",
+            "optionInfoList": [
+                {
+                    "index": 1,
+                    "tag": "homeOd",
+                    "optionName": {
+                        "zh-Hant": "利云特",
+                        "ru": "Леванте",
+                        "vi": "Levante",
+                        "ko": "레반테",
+                        "ja": "レバンテ",
+                        "en": "Levante",
+                        "zh": "勒万特队"
+                    },
+                    "originalOdds": "2.375",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        }
+                    }
+                },
+                {
+                    "index": 2,
+                    "tag": "drawOd",
+                    "optionName": {
+                        "zh-Hant": "平局",
+                        "ru": "Равен",
+                        "vi": "Vẽ tranh",
+                        "ko": "무승부",
+                        "ja": "相こ",
+                        "en": "Draw",
+                        "zh": "平局"
+                    },
+                    "originalOdds": "3.250",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        }
+                    }
+                },
+                {
+                    "index": 3,
+                    "tag": "awayOd",
+                    "optionName": {
+                        "zh-Hant": "赫羅納",
+                        "ru": "Гирона",
+                        "vi": "Girona",
+                        "ko": "지로나",
+                        "ja": "ジローナ",
+                        "en": "Girona",
+                        "zh": "赫罗纳"
+                    },
+                    "originalOdds": "3.000",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.055
+                        }
+                    }
+                }
+            ],
+            "centralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                },
+                "BTC": {
+                    "betCap": "400"
+                },
+                "BCH": {
+                    "betCap": "400"
+                },
+                "LTC": {
+                    "betCap": "400"
+                },
+                "USDT": {
+                    "betCap": "400"
+                }
+            },
+            "noneCentralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                }
+            }
+        },
+        {
+            "playName": {
+                "zh-Hant": "讓球",
+                "ru": "Азиатский Гандикап(HANDICAP)",
+                "vi": "nhường bóng",
+                "ko": "핸디캡",
+                "ja": "ハンディキャップ",
+                "en": "Handicap",
+                "zh": "让球"
+            },
+            "playDescription": {
+                "zh-Hant": "競猜兩隊在90分鐘內（含補時）讓球後的結果",
+                "ru": "Азиатский Гандикап - предсказать результат матча (90 минут плюс компенсированное время )",
+                "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                "ko": "양팀 90분(추가시간 포함) 내의 핸디캡 후의 결과 예측",
+                "ja": "ハンディキャップを含めた両チームの試合結果（ロスタイムを含む）",
+                "en": "Asian Handicap - Predict the outcome of the match (90 minutes plus injury time)",
+                "zh": "竞猜两队在90分钟内（含补时）让球后的结果"
+            },
+            "playTemplateId": 20,
+            "market": "1_2",
+            "round": 0,
+            "handicap": "0.0",
+            "awardType": "HANDICAP",
+            "resultType": "SCORE",
+            "optionInfoList": [
+                {
+                    "index": 1,
+                    "tag": "homeOd",
+                    "optionName": {
+                        "zh-Hant": "利云特",
+                        "ru": "Леванте",
+                        "vi": "Levante",
+                        "ko": "레반테",
+                        "ja": "レバンテ",
+                        "en": "Levante",
+                        "zh": "勒万特队"
+                    },
+                    "originalOdds": "1.800",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        }
+                    }
+                },
+                {
+                    "index": 2,
+                    "tag": "awayOd",
+                    "optionName": {
+                        "zh-Hant": "赫羅納",
+                        "ru": "Гирона",
+                        "vi": "Girona",
+                        "ko": "지로나",
+                        "ja": "ジローナ",
+                        "en": "Girona",
+                        "zh": "赫罗纳"
+                    },
+                    "originalOdds": "2.100",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.1
+                        }
+                    }
+                }
+            ],
+            "centralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                },
+                "BTC": {
+                    "betCap": "400"
+                },
+                "BCH": {
+                    "betCap": "400"
+                },
+                "LTC": {
+                    "betCap": "400"
+                },
+                "USDT": {
+                    "betCap": "400"
+                }
+            },
+            "noneCentralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                }
+            }
+        },
+        {
+            "playName": {
+                "zh-Hant": "大小球",
+                "ru": "O/U",
+                "vi": "Bóng lớn nhỏ",
+                "ko": "오버/언더",
+                "ja": "オーバー/アンダーベット",
+                "en": "O/U",
+                "zh": "大小球"
+            },
+            "playDescription": {
+                "zh-Hant": "競猜兩隊在90分鐘內（含補時）總進球數的大小",
+                "ru": "O/U - предсказать результат матча (90 минут плюс компенсированное время )",
+                "vi": "Hai đối thi đấu trong vòng 90 phút ( chứa cả bù giờ) kết quả sau khi nhường bóng",
+                "ko": "양팀 90분(추가시간 포함) 내의 총 득점수 오버/언더 예측",
+                "ja": "両チームそれぞれのゴール数（ロスタイムを含む）",
+                "en": "O/U - Predict the game within 90 minutes (including injury time)",
+                "zh": "竞猜两队在90分钟内（含补时）总进球数的大小"
+            },
+            "playTemplateId": 30,
+            "market": "1_3",
+            "round": 0,
+            "handicap": "2.5,3.0",
+            "awardType": "OI",
+            "resultType": "SCORE",
+            "optionInfoList": [
+                {
+                    "index": 1,
+                    "tag": "overOd",
+                    "optionName": {
+                        "zh-Hant": "高於",
+                        "ru": "Над",
+                        "vi": "kết thúc",
+                        "ko": "보다 많다",
+                        "ja": "より高い",
+                        "en": "Over",
+                        "zh": "高于"
+                    },
+                    "originalOdds": "2.050",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        }
+                    }
+                },
+                {
+                    "index": 2,
+                    "tag": "underOd",
+                    "optionName": {
+                        "zh-Hant": "低於",
+                        "ru": "Под",
+                        "vi": "Dưới",
+                        "ko": "보다 적다",
+                        "ja": "より低い",
+                        "en": "Under",
+                        "zh": "低于"
+                    },
+                    "originalOdds": "1.850",
+                    "centralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "BTC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "BCH": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "LTC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "USDT": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        }
+                    },
+                    "noneCentralCurrencyOptionDTOEnumMap": {
+                        "ETC": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        },
+                        "ETH": {
+                            "betCap": "400",
+                            "shrink": 0.085
+                        }
+                    }
+                }
+            ],
+            "centralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                },
+                "BTC": {
+                    "betCap": "400"
+                },
+                "BCH": {
+                    "betCap": "400"
+                },
+                "LTC": {
+                    "betCap": "400"
+                },
+                "USDT": {
+                    "betCap": "400"
+                }
+            },
+            "noneCentralCurrencyPlayInfoDTOEnumMap": {
+                "ETC": {
+                    "betCap": "400"
+                },
+                "ETH": {
+                    "betCap": "400"
+                }
+            }
+        }
+    ]
+}
