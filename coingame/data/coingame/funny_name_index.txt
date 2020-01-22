@@ -1,4 +1,0 @@
-{
-    "testing": 3,
-    "abtest": 2
-}

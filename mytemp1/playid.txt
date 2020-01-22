@@ -1,6 +1,0 @@
-{
-    "gameId": 136165,
-    "basePlayId": 23987,
-    "centring": "true",
-    "decentered": "false"
-}

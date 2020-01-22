@@ -1,6 +1,0 @@
-
-
-请求顺序：
-1.选择项目类别：upcoming-games
-2.选择比赛对局：templates
-3.保存预测：games
